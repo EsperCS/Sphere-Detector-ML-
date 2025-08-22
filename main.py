@@ -1,4 +1,4 @@
-import practice as ml
+import detect as ml
 import makeGraph as graph
 
 #Set Learning Rate (Default: 0.1), Steps (Default: 1000)
